@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sweetdevil144
-- 👀 I’m interested in Web Development, Ai & ML.
+- 👀 I’m interested in Web Development, AI & ML.
 - 🌱 I’m currently learning JAVA, DSA and Front-End Development.
 - 💞️ I’m looking for a successful collaboration
 - 📫 How to reach me ...
