@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sweetdevil144
 - 👀 I’m interested in Web Development, AI & ML.
-- 🌱 I’m currently learning JAVA, DSA and Front-End Development.
+- 🌱 I’m currently learning Front-End Development, JAVA, Cyber Security and DSA.
 - 💞️ I’m looking for a successful collaboration
 - 📫 How to reach me ...
 - [My instagran handle](https://www.instagram.com/abhinav_pandey_1230/)
