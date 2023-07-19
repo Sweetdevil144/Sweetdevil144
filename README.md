@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Sweetdevil144<br>👀 I’m interested in Web Development, AI & ML, Cyber Security, UX/UI designing and Web3 Development.<br>🌱 I’m currently learning Front-End Development, Cyber Security and UX designing.<br>💞️ I’m looking for a successful collaboration with others in the community.<br>
+👋 Hi, I’m @Sweetdevil144<br>👀 I’m interested in Web Development, AI & ML, Cyber Security and Web3 Development.<br>🌱 I’m currently learning Front-End Development, Cyber Security and Machine Learning.<br>💞️ I’m looking for a successful collaboration with others in the community.<br>
 
 
 ## 🌐 Socials:
