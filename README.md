@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abhinav Pandey</h1>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" height="30px" width="30px">, I'm Abhinav Pandey</h1>
 <h3 align="center">A Frontend Developer and ML Learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sweetdevil144&label=Profile%20views&color=0e75b6&style=flat" alt="sweetdevil144" /> </p>
@@ -10,8 +10,6 @@
 - 👨‍💻 All of my projects are available at [My Portfolio](https://csoc-23-portfolio-project.vercel.app/)
 
 - 📝 I regularly write articles on [Hashnode](https://b1o5.hashnode.dev)
-
-- 💬 Ask me about **bash, react and java**
 
 - 📫 How to reach me **abhinavpandey1230@gmail.com**
 
