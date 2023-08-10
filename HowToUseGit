@@ -1,6 +1,0 @@
-git init
-git add .
-git commit -m "message"
-git branch -M main
-git remote add origin (link for repository)
-git push -u origin main
