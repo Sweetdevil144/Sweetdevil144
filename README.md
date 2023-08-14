@@ -28,8 +28,8 @@
 
 ### My Stats
 
-<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=sweetdevil144&show_icons=true&locale=en&layout=compact&title_color=22c55e&text_color=14b8a6&icon_color=10b981&bg_color=000000" alt="sweetdevil144" /></p>
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=sweetdevil144&show_icons=true&locale=en&layout=compact&theme=react" alt="sweetdevil144" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sweetdevil144&show_icons=true&locale=en&title_color=22c55e&text_color=14b8a6&icon_color=10b981&bg_color=000000" alt="sweetdevil144" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sweetdevil144&show_icons=true&locale=en&theme=react" alt="sweetdevil144" /></p>
 
-<a href="http://www.github.com/Sweetdevil144"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sweetdevil144&stroke=14b8a6&background=000000&ring=22c55e&fire=22c55e&currStreakNum=14b8a6&currStreakLabel=22c55e&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6" /></a>
+<a href="http://www.github.com/Sweetdevil144"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sweetdevil144&theme=react" /></a>
