@@ -18,7 +18,7 @@
 <br>
 <a href="https://www.github.com/Sweetdevil144" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Sweetdevil144?logo=github&style=for-the-badge&color=10b981&labelColor=000000" /></a><a href="https://www.twitter.com/Abhinav_6996" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/Abhinav_6996?logo=twitter&style=for-the-badge&color=10b981&labelColor=000000" /></a>
 <br><br><br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sweetdevil144" alt="sweetdevil144" /></a> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=Sweetdevil144&theme=gitdimmed"></a> </p>
 
 ### Connect with me
 <p align="left"> <a href="https://www.dev.to/sweetdevil144" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a> <a href="https://www.github.com/Sweetdevil144" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://b1o5.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/abhinav_pandey_1230" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/abhinav-pandey-441504252/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/20455850/abhinav-pandey" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Abhinav_6996" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
@@ -28,8 +28,12 @@
 
 ### My Stats
 
-<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=sweetdevil144&show_icons=true&locale=en&layout=compact&theme=react" alt="sweetdevil144" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sweetdevil144&layout=donut&theme=react&langs_count=10"/></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sweetdevil144&show_icons=true&locale=en&theme=react" alt="sweetdevil144" /></p>
-
+<br>
 <a href="http://www.github.com/Sweetdevil144"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sweetdevil144&theme=react" /></a>
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sweetdevil144&theme=react">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sweetdevil144&theme=react">
