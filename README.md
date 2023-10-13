@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sweetdevil144&label=Profile%20views&color=0e75b6&style=flat" alt="sweetdevil144" /> </p>
 
-- 🔭 I’m love **Observational Astronomy**
+- 🔭 I love **Observational Astronomy**
 
 - 🌱 I’m currently learning **Fullstack Dev, Machine Learning, Cloud Development and DevOps**
 
