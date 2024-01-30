@@ -5,11 +5,9 @@
 
 - 🔭 I love **Observational Astronomy**
 
-- 🌱 I’m currently learning **Fullstack Dev, Machine Learning, Cloud Development and DevOps**
+- 🌱 I’m currently learning **Machine Learning, Cloud Development and DevOps**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://csoc-23-portfolio-project.vercel.app/)
-
-- 📝 I regularly write articles on [Hashnode](https://b1o5.hashnode.dev)
+- 📝 I regularly write articles on [DevTo](http://dev.to/devrx)
 
 - 📫 How to reach me **abhinavpandey1230@gmail.com**
 
