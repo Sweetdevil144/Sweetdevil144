@@ -35,9 +35,15 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sweetdevil144&show_icons=true&locale=en&theme=react" alt="sweetdevil144" /></p>
+
+[![Sweetdevil144's GitHub | Stats](https://stats.quira.sh/Sweetdevil144/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Sweetdevil144)
+
 <br>
 
 <a href="http://www.github.com/Sweetdevil144"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sweetdevil144&theme=react" /></a>
+
+[![Sweetdevil144's GitHub | Topics Over Time](https://stats.quira.sh/Sweetdevil144/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Sweetdevil144)
+
 <br>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sweetdevil144&theme=react">
