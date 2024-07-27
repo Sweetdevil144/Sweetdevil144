@@ -20,7 +20,15 @@
 <br><br><br>
 
 ### LFX Contributions
-<img src="./a11y-theme-builder-community-champion.png" >
+
+#### Community Champion
+
+<img src="./a11y-theme-builder-community-champion.png" alt="Community Champion" width="200" height="200">
+
+#### Technical Contributor
+
+<img src="./a11y-theme-builder-core-contributor.png" alt="Technical Contributor" width="200" height="200">
+
 
 [![An image of @sweetdevil144's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sweetdevil144)](https://holopin.io/@sweetdevil144)
 
