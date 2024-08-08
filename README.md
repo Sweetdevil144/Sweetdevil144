@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I roll my eyes when I'm mad**
 
-- 👀 Find my resume [here](https://drive.google.com/file/d/1m76FkVXuonhF38DV-fuKWgAcsbkcyu05/view?usp=sharing)
+- 👀 Find my resume [here](https://drive.google.com/file/d/11Tt9Hs2HMdE8kcxq_DAdlK7Wo7mOBuTn/view?usp=sharing)
 
 <br>
 <a href="https://www.github.com/Sweetdevil144" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Sweetdevil144?logo=github&style=for-the-badge&color=10b981&labelColor=000000" /></a><a href="https://www.twitter.com/Abhinav_6996" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/Abhinav_6996?logo=twitter&style=for-the-badge&color=10b981&labelColor=000000" /></a>
