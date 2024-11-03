@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Cloud Development and DevOps**
 
-- 📝 I regularly write articles on [DevTo](http://dev.to/devrx)
+- 📝 I regularly write articles on [DevTo](http://dev.to/devrx) and [B1O5 Blogs](https://b1o5.vercel.app/)
 
 - 📫 How to reach me **abhinavpandey1230@gmail.com**
 
