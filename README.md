@@ -1,5 +1,4 @@
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" height="30px" width="30px">, I'm Abhinav Pandey</h1>
-<h3 align="center">A Programmer from India</h3>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" height="30px" width="30px">, I'm Abhinavv</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sweetdevil144&label=Profile%20views&color=0e75b6&style=flat" alt="sweetdevil144" /> </p>
 
@@ -19,7 +18,7 @@
 <a href="https://www.github.com/Sweetdevil144" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Sweetdevil144?logo=github&style=for-the-badge&color=10b981&labelColor=000000" /></a><a href="https://www.twitter.com/Abhinav_6996" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/Abhinav_6996?logo=twitter&style=for-the-badge&color=10b981&labelColor=000000" /></a>
 <br><br><br>
 
-### FINOS Contributions
+### Open Source Contributions
 
 | Community Champion | Technical Contributor |
 |--------------------|-----------------------|
