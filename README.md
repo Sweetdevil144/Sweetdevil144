@@ -2,15 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sweetdevil144&label=Profile%20views&color=0e75b6&style=flat" alt="sweetdevil144" /> </p>
 
-- 🔭 I love **Observational Astronomy**
-
-- 🌱 I’m currently learning **Machine Learning, Cloud Development and DevOps**
-
 - 📝 I regularly write articles on [DevTo](http://dev.to/devrx) and [B1O5 Blogs](https://b1o5.vercel.app/about)
 
 - 📫 How to reach me **abhinavpandey1230@gmail.com**
-
-- ⚡ Fun fact **I roll my eyes when I'm mad**
 
 - 👀 Find my resume [HERE](https://drive.google.com/file/d/12Tc-9wkywnnxZPWp-vJJgH9EORyqLnoW/view?usp=drive_link)
 
