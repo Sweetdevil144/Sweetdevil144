@@ -8,6 +8,8 @@
 
 - 👀 Find my resume [HERE](https://drive.google.com/file/d/12Tc-9wkywnnxZPWp-vJJgH9EORyqLnoW/view?usp=drive_link)
 
+- Previous SWE [@trumio](http://github.com/trumio) & GSoC'24 [@PEcAn Project](https://github.com/PecanProject/)
+
 <br>
 <a href="https://www.github.com/Sweetdevil144" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Sweetdevil144?logo=github&style=for-the-badge&color=10b981&labelColor=000000" /></a><a href="https://www.twitter.com/Abhinav_6996" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/Abhinav_6996?logo=twitter&style=for-the-badge&color=10b981&labelColor=000000" /></a>
 <br><br><br>
