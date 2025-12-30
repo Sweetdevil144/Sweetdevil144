@@ -2,6 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sweetdevil144&label=Profile%20views&color=0e75b6&style=flat" alt="sweetdevil144" /> </p>
 
+[![wakatime](https://wakatime.com/badge/user/63a0ad2a-3946-44ff-90e3-6dc20e824994.svg)](https://wakatime.com/@63a0ad2a-3946-44ff-90e3-6dc20e824994)
+---
+
 - 📝 I regularly write articles on [DevTo](http://dev.to/devrx) and [B1O5 Blogs](https://b1o5.vercel.app/about)
 
 - 📫 How to reach me **abhinavpandey1230@gmail.com**
