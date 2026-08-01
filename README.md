@@ -2,5 +2,6 @@
 ---
 
 - 📫 How to reach me **abhinavpandey1230@gmail.com**
+- Building [MUON](https://getmuon.com/)
 - Founder & CEO @ [Quantistic](https://quantistic.ai/)
 - Founding Enginer @ [Akon-Labs](https://akonlabs.com/) (YC S26)
